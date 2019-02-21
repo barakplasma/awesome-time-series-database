@@ -41,6 +41,12 @@ A curated list of awesome time series databases, benchmark tools, blog and publi
 - Backends: [Cassandra](#cassandra), [HBase](#hbase), [Bigtable](#bigtable), [Elasticsearch](#elasticsearch)
 - [Monitoring at Spotify - Introducing Heroic](https://labs.spotify.com/2015/11/17/monitoring-at-spotify-introducing-heroic/)
 
+### uts
+[uts](https://github.com/mixer/uts) is a pure Javascript time series database which runs in memory in the browser or Node.js
+
+- Language: Javascript
+- Backends: [Memory](#memory)
+
 ### BTrDB
 
 [BTrDB](http://btrdb.io/) (Berkeley Tree Database) is a High performance time series database designed to support high density data storage applications.
@@ -170,7 +176,7 @@ Databases: [BTrDB](#btrdb), [Vaultaire](#vaultaire)
 
 ### Memory
 
-Databases: [Beringei](#beringei), [Atlas](#atlas)
+Databases: [Beringei](#beringei), [Atlas](#atlas), [uts](#uts)
 
 #### Design
 
